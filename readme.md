@@ -1,6 +1,6 @@
 ##NUSAnswers
 
-Discussion forum for students at an [National University of Singapore](http://www.nus.edu.sg/) to ask and answer questions regarding anything related to the university. The website can be found [here](http://www.nusanswers.com/).
+Discussion forum for students at the [National University of Singapore](http://www.nus.edu.sg/) to ask and answer questions regarding anything related to the university. The website can be found [here](http://www.nusanswers.com/).
 
 ##### Set up server:
 * Install [XAMPP](https://www.apachefriends.org/index.html) **or** upload the server-side to some other host
